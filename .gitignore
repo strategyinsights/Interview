@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Notebook artefacts
+.ipynb_checkpoints/
+.jupyter/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Note: data/ is intentionally NOT ignored — input files live in version control.
